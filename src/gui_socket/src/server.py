@@ -5,7 +5,7 @@ from sensor_msgs.msg import Imu
 from tf.transformations import quaternion_from_euler
 
 
-HOST = '192.168.1.106'
+HOST = 'Your IP Address'
 PORT = 8000
 
 
