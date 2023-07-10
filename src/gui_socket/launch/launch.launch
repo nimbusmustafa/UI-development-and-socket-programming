@@ -1,0 +1,7 @@
+<launch>
+
+<!-- <node pkg="gui_socket" type="server.py" name="server" output="screen"></node> -->
+
+<node name="rviz" pkg="rviz" type="rviz" output="screen"/>
+
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/mustafa/socket_programming/devel
+
+Name: gui_socket
+Description: Description of gui_socket
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

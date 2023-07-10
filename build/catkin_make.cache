@@ -1,0 +1,2 @@
+gui_socket
+-DCATKIN_DEVEL_PREFIX=/home/mustafa/socket_programming/devel -DCMAKE_INSTALL_PREFIX=/home/mustafa/socket_programming/install -G Unix Makefiles
